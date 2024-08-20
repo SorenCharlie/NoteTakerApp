@@ -1,6 +1,14 @@
 [
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    }
+  {
+    "title": "Test Title",
+    "text": "Test text"
+  },
+  {
+    "title": "Note 1",
+    "text": "pet cats"
+  },
+  {
+    "title": "Reminder",
+    "text": "play with cats"
+  }
 ]
