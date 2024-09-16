@@ -1,14 +1,12 @@
 [
   {
-    "title": "Test Title",
-    "text": "Test text"
+    "title": "Buy cat food",
+    "text": "needed by next week",
+    "id": "bb0cf76c-9ac2-487c-946e-eac486672a40"
   },
   {
-    "title": "Note 1",
-    "text": "pet cats"
-  },
-  {
-    "title": "Reminder",
-    "text": "play with cats"
+    "title": "Grocery list:",
+    "text": "apples\nbananas\nchicken\ncheese",
+    "id": "8facf589-94ad-4c1f-b653-f568507d5dac"
   }
 ]
